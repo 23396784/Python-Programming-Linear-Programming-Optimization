@@ -1,0 +1,16 @@
+# Python Programming & Linear Programming Optimization
+# Requirements file
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter Support
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: LP Solvers (for advanced optimization)
+scipy>=1.10.0
